@@ -6,4 +6,4 @@
 
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.gg/vhhS5jQVdg)
 
-> Chief executive officer
+> Chief executive 
